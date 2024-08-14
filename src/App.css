@@ -22,6 +22,27 @@
     font-size: 28px;
     font-weight: bold;
   }
+
+  .result {
+    font-size: 24px;
+    font-weight: bold;
+  }
+}
+
+.win {
+  border-color: lightpink;
+
+  .title {
+    color: lightpink;
+  }
+}
+
+.lose {
+  border-color: cornflowerblue;
+
+  .title {
+    color: cornflowerblue;
+  }
 }
 
 .item-img {
